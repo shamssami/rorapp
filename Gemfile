@@ -70,3 +70,8 @@ group :test do
   gem "selenium-webdriver"
   gem "webdrivers"
 end
+
+group :production do
+  gem 'rails_12factor', '~> 0.0.3'
+  gem 'pg', '~> 1.4', '>= 1.4.5'
+end
