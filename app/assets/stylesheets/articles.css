@@ -1,0 +1,16 @@
+th, td {
+    padding: 20px;
+    text-align: left;
+
+    background-color: azure;
+  }
+
+  thead{
+    padding: 20px;
+    text-align: left;
+
+    background-color: rgb(90, 179, 179);
+
+  }
+
+  
